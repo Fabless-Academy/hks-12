@@ -10,8 +10,7 @@
 🎯 관심 분야: MCU, RTOS, Embedded Linux, System Architecture, Hardware Optimization
 
 🎓 교육 이력:
-
-숭실대학교 전자정보공학부 학사 (2021.02 ~ 재학 중)
+전자정보공학부 학사 (2021.02 ~ 재학 중)
 
 팹리스 점프업 일경험 프로젝트 [3기] 수강 (2026.08 ~ 2026.09)
 
